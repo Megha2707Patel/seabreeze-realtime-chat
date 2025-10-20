@@ -23,10 +23,11 @@ LIVE DEMO: https://seabreeze-realtime-chat.vercel.app/
 ✅ User Authentication (Register/Login)  
 ✅ Create 1:1 Chats  
 ✅ Real-time Messaging (WebSocket-backed)  
+✅ Database Security via RLS Policies
 ✅ Online/Offline Presence Status  
 ✅ Glassmorphic Modern UI  
-✅ Database Security via RLS Policies  
-✅ Serverless — Deploy to **Vercel** in 1 click
+  
+
 
 ---
 
