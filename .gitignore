@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Build
+.next/
+out/
+
+# Env Keys
+.env.local
+.env*
