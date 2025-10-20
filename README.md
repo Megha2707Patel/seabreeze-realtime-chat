@@ -1,7 +1,8 @@
 # 🌊 SeaBreeze Realtime Chat  
 **Next.js 14 + Supabase Realtime (Auth, Database, Live Messaging & Presence)**  
 A minimalist, modern, end-to-end encrypted chat application —  using realtime WebSocket architecture.
-LIVE DEMO : https://seabreeze-realtime-chat.vercel.app/
+
+LIVE DEMO: https://seabreeze-realtime-chat.vercel.app/
 ---
 
 ## 🚀 Tech Stack
